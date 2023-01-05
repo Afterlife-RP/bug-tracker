@@ -9,6 +9,6 @@ Afterlife Roleplay benutzt Github Issues als Bugtracker. Dieses Repository dient
 ## Ich glaube ich habe einen Bug gefunden
 Wenn du der Meinung bist, dass etwas nicht so funktioniert, wie es sollte, folge diesen Answeisungen:
 1. Stelle sicher, dass dieser Bug nicht bereits gemeldet wurde.
-2. Erstelle ein neues Issue und folge dem Template.
+2. Erstelle ein [neues Issue](https://github.com/Afterlife-RP/bug-tracker/issues/new/choose "neues Issue erstellen") und folge dem Template.
 
 
